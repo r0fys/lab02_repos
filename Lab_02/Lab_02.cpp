@@ -9,7 +9,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
-    string commit = "commit 2 old";
+    string commit = "commit 3 old";
 
     double Pi = 4 * atan(1.);
     double a, z1, z2;
