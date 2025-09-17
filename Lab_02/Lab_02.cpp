@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+    string name = "try 2";
+
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
