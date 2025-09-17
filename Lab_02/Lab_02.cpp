@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    string name = "new repos test";
+    string name = "update";
 
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
